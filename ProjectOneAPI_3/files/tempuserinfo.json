@@ -1,0 +1,52 @@
+{
+  "info_user": [
+    {
+      "id":"",
+      "name": "Stanley",
+      "surname": "Kubrick",
+      "year_of_birth": 1928,
+      "marital_status": false,
+      "citizen": "USA"
+    },
+    {
+      "id":"",
+      "name": "Steven",
+      "surname": "Soderbergh",
+      "year_of_birth": 1963,
+      "marital_status": true,
+      "citizen": "USA"
+    },
+    {
+      "id":"",
+      "name": "Martin",
+      "surname": "Scorsese",
+      "year_of_birth": 1942,
+      "marital_status": true,
+      "citizen": "USA"
+    },
+    {
+      "id":"",
+      "name": "Charlie",
+      "surname": "Kaufman",
+      "year_of_birth": 1958,
+      "marital_status": true,
+      "citizen": "USA"
+    },
+    {
+      "id":"",
+      "name": "Spike",
+      "surname": "Jonze",
+      "year_of_birth": 1969,
+      "marital_status": true,
+      "citizen": "USA"
+    },
+    {
+      "id":"",
+      "name": "Stanley",
+      "surname": "Kubrick",
+      "year_of_birth": 1928,
+      "marital_status": false,
+      "citizen": "USA"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "movie": [
+    {
+      "id": "",
+      "movie_name": "The Shining",
+      "director_id": "63400152161bb33b00011dec",
+      "scriptwriter_id": "63400152161bb33b00011dec",
+      "imdb_score": 8.4
+    },
+    {
+      "id": "",
+      "movie_name": "Eyes Wide Shut",
+      "director_id": "63400152161bb33b00011dec",
+      "scriptwriter_id": "63400152161bb33b00011dec",
+      "imdb_score": 7.5
+    },
+    {
+      "id": "",
+      "movie_name": "Solaris",
+      "director_id": "63400152161bb33b00011dee",
+      "scriptwriter_id": "634006b8350e75bda5018840",
+      "imdb_score": 6.2
+    },
+    {
+      "id": "",
+      "movie_name": "Adaptation",
+      "director_id": "63400153161bb33b00011df4",
+      "scriptwriter_id": "63400153161bb33b00011df2",
+      "imdb_score": 7.7
+    },
+    {
+      "id": "",
+      "movie_name": "I'm Thinking of The Ending Things",
+      "director_id": "63400153161bb33b00011df2",
+      "scriptwriter_id": "63400153161bb33b00011df2",
+      "imdb_score": 8.4
+    },
+    {
+      "id": "",
+      "movie_name": "Taxi Driver",
+      "director_id": "63400152161bb33b00011df0",
+      "scriptwriter_id": "63400152161bb33b00011df0",
+      "imdb_score": 8.2
+    }
+  ]
+}

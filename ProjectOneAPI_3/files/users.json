@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "id": "63400c54599d50cfe5800621",
+      "username": "fdogan",
+      "email": "fdogangazi@gmail.com",
+      "password": "12345.!",
+      "status": "admin",
+      "isactive": true,
+      "database": "collections",
+      "collections": [
+        "movie"
+      ]
+    },
+    {
+      "id": "63400c55599d50cfe5800623",
+      "username": "lavin",
+      "email": "lovein@gmail.com",
+      "password": "12345.!",
+      "status": "user",
+      "isactive": true,
+      "database": "love",
+      "collections": [
+        "movies"
+      ]
+    },
+    {
+      "id": "63400c55599d50cfe5800625",
+      "username": "ACPro",
+      "email": "canerozyurtlu@gmail.com",
+      "password": "12345.!",
+      "status": "user",
+      "isactive": true,
+      "database": "ac",
+      "collections": [
+        "movies"
+      ]
+    },
+    {
+      "id": "634039e91e9539387123ca3e",
+      "username": "silvia",
+      "email": "silvi@gmail.com",
+      "password": "12345.!",
+      "status": "user",
+      "isactive": true,
+      "database": "fdogan",
+      "collections": [
+        "movies"
+      ]
+    },
+    {
+      "id": "63403bbeaeac538266132568",
+      "username": "silvia",
+      "email": "silvi@gmail.com",
+      "password": "12345.!",
+      "status": "user",
+      "isactive": true,
+      "database": "fdogan",
+      "collections": [
+        "movies",
+        "musics"
+      ]
+    },
+    {
+      "id": "63414e39cf7411a3af270dc0",
+      "username": "khazadDum",
+      "email": "khazad@dum.com",
+      "password": "12345.!",
+      "status": "user",
+      "isactive": true,
+      "database": "mithril",
+      "collections": [
+        "movies"
+      ]
+    },
+    {
+      "id": "63414fd53130f5c580fba9b9",
+      "username": "khazadDum",
+      "email": "khazad@dum.com",
+      "password": "12345.!",
+      "status": "user",
+      "isactive": true,
+      "database": "mithril",
+      "collections": [
+        "movies"
+      ]
+    },
+    {
+      "id": "63415059bc9028f104ad64d8",
+      "username": "ahsen",
+      "email": "ahsen@dum.com",
+      "password": "12345.!",
+      "status": "user",
+      "isactive": true,
+      "database": "abilişim",
+      "collections": [
+        "abc"
+      ]
+    }
+  ]
+}
